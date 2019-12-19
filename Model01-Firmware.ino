@@ -96,8 +96,8 @@ KEYMAPS(
     XXX,                                Key_F10,                        Key_F2,                           Key_F4,                           Key_F6,               Key_F8,                 Key_F12,      // Row 1
     Consumer_PlaySlashPause,            Consumer_ScanPreviousTrack,     Consumer_ScanNextTrack,           XXX,                              XXX,                  XXX,                    XXX,          // Row 2
                                         Key_LeftArrow,                  Key_DownArrow,                    Key_UpArrow,                      Key_RightArrow,       XXX,                    XXX,          // Row 3
-    XXX,                                XXX,                            XXX,                              XXX,                              XXX,                  Key_Backslash,          Key_Pipe,     // Row 4
-    XXX,                                XXX,                            Key_Enter,                        OSM(RightGui),                                                                                // Thumb
+    XXX,                                XXX,                            XXX,                              XXX,                              XXX,                  XXX,                    XXX,          // Row 4
+    XXX,                                XXX,                            Key_Enter,                        XXX,                                                                                          // Thumb
     XXX                                                                                                                                                                                                 // Function
   )
 )
