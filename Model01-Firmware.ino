@@ -2,6 +2,8 @@
 // Copyright 2016 Keyboardio, inc. <jesse@keyboard.io>
 // See "LICENSE" for license details
 
+// http://www.keyboard-layout-editor.com/#/gists/f0e56d43677bd4c2592e4b506329b2c8
+
 #ifndef BUILD_INFORMATION
 #define BUILD_INFORMATION "locally built"
 #endif
