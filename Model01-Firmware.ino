@@ -76,12 +76,12 @@ KEYMAPS(
     ShiftToLayer(FUNCTION),                                                                                                           // Function
 
     
-    ___,                      Key_0,              Key_2,          Key_4,              Key_6,          Key_8,            ___,            // Row 1
-    TD(R_PAREN),              Key_Y,              Key_U,          Key_I,              Key_O,          Key_P,            Key_Backtick,   // Row 2
-                              Key_H,              Key_J,          Key_K,              Key_L,          Key_Equals,       Key_Quote,      // Row 3
-    OSM(RightControl),        Key_N,              Key_M,          Key_Comma,          Key_Period,     Key_Slash,        ___,            // Row 4
-    OSM(RightGui),            OSM(RightAlt),      Key_Spacebar,   Key_Minus,                                                            // Thumb
-    ShiftToLayer(FUNCTION),                                                                                                             // Function
+    ___,                      Key_0,              Key_2,            Key_4,              Key_6,          Key_8,            ___,            // Row 1
+    TD(R_PAREN),              Key_Y,              Key_U,            Key_I,              Key_O,          Key_P,            Key_Backtick,   // Row 2
+                              Key_H,              Key_J,            Key_K,              Key_L,          Key_Equals,       Key_Quote,      // Row 3
+    OSM(RightControl),        Key_N,              Key_M,            Key_Comma,          Key_Period,     Key_Slash,        ___,            // Row 4
+    Key_Minus,                OSM(RightAlt),      Key_Spacebar,     OSM(RightGui),                                                        // Thumb
+    ShiftToLayer(FUNCTION),                                                                                                               // Function
   ),
 
   [FUNCTION] =  KEYMAP_STACKED
